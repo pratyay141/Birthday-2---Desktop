@@ -558,7 +558,7 @@ function nextStage() {
           'wish-text-tw',
           `I hope this little gesture brought a smile to your face and some genuine joy to your day.` +
           ` There is something special about birthdays, they are a chance to wish for everything good for someone 🌟<br/><br/>` +
-          `I wish for you a life full of success, abundance, and the fulfillment of all your dreams..<br/>` +
+          `I wish for you a life full of success, abundance and the fulfillment of all your dreams.<br/>` +
           `May you feel God's love and blessings guiding you forward,` +
           ` easing every burden and replacing sorrows with real peace and happiness.<br/><br/>` +
           `Keep being radiant and beautiful self and never stop being who you really are.<br/><br/>`,
